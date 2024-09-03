@@ -25,8 +25,8 @@
     padding: 55px;
     box-sizing:border-box;
     backface-visibility: hidden;
-    background-image: url(./images/8297522.jpg);
-    background-size: cover;
+    /* background-image: url(./images/8297522.jpg);
+    background-size: cover; */
     opacity:0.5;
 }
 
@@ -51,6 +51,7 @@
     font-size: 24px;
     text-align: center;
     margin-bottom: 20px;
+    color: red;
 
 }
 
